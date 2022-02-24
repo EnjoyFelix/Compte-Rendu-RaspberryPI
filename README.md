@@ -6,3 +6,7 @@ Association des fichier:
   Faire varier l’intensité : GPIO_PWM.py
   Allumer la led avec un bouton poussoir : GPIO_BOUTON.py
   Afficher la température : GPIO_TEMP.py
+
+Liens:
+Wiki de RPi.GPIO : https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/
+Github de la librairie Adafruit : https://github.com/adafruit/Adafruit_Python_DHT
