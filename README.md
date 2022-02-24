@@ -12,4 +12,4 @@ Wiki de RPi.GPIO : https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples
 Github de la librairie Adafruit : https://github.com/adafruit/Adafruit_Python_DHT
 
 
-OUI C'EST SURCOMMENTÉ, ET ALORS ?
+OUI C'EST SURCOMMENTÉ, ET ALORS ? 
