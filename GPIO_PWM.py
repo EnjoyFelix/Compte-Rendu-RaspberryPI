@@ -26,7 +26,7 @@ try:
             print("cycle d'activité: %s "%dC, end="\r")
             sleep(0.05)
  
-except KeyboardInterrupt: #Code éxécuté si on interromp avec <ctrl + c>
+except KeyboardInterrupt: #Code éxécuté si on interrompt la boucle avec <ctrl + c>
     pwm.stop()
     GPIO.cleanup()
 
