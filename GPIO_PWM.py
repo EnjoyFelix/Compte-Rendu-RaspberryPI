@@ -5,7 +5,7 @@ ledPin = 12 #pin de la led (en GPIO.BOARD)
 frequence = 100  #fréquence de la pin, 100 donc toutes les 0.01 secondes 
 dC = 0 #Cycle d'activié a 0 donc éteint
  
-GPIO.setmode (GPIO.BOARD) #On choisit le mode d'identification des pins
+GPIO.setmode(GPIO.BOARD) #On choisit le mode d'identification des pins
 GPIO.setup(ledPin, GPIO. OUT) #On définit la pin GPIO.18 comme une sortie
  
  
